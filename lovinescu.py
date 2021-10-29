@@ -5,7 +5,7 @@ import youtube_dl
 import json
 import os
 
-TOKEN = 'ODE2OTU3Nzg1NzAxODc1NzYz.YEChOg.Q8NFfunHXSKwCl9WhkWCqvB6IP8'
+TOKEN = '' #Introduce your discord bot token
 
 
 intents = discord.Intents.default()
